@@ -21,6 +21,7 @@
 #include "llama-memory-hybrid-iswa.cpp"
 #include "llama-memory-recurrent.cpp"
 #include "llama-model-loader.cpp"
+#include "k9.cpp"
 #include "llama-model-saver.cpp"
 #include "llama-quant.cpp"
 #include "llama-hparams.cpp"
